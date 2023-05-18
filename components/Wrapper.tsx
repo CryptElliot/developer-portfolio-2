@@ -14,7 +14,7 @@ export default function Wrapper({pageIndex,children,className}: WrapperProps) {
       <>{children}</>
 
       <div className="fixed bottom-12 left-6 hidden md:flex items-center flex-col gap-4">
-        <Link href={"https://www.github.com"} target={"_blank"}>
+        <Link href={"https://github.com/CryptElliot"} target={"_blank"}>
           <AiFillGithub className={socialClassNames} />
         </Link>
         <Link href={"https://www.instagram.com"} target={"_blank"}>
