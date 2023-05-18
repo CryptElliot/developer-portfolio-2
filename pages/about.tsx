@@ -8,7 +8,7 @@ export default function about() {
   return (
     <>
       <Head>
-        <title>Mozorozov | About</title>
+        <title>Everett | About</title>
       </Head>
       <Wrapper pageIndex={2}>
         <div className="flex flex-col gap-12 lg:flex-row items-center justify-center mb-12 min-h-screen lg:mb-0 pt-28 lg:pt-0">
