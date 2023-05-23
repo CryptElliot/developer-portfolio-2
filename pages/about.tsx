@@ -29,7 +29,7 @@ export default function about() {
               {" "}
               I am a passionate frontend website developer with a creative eye for
               design and a strong focus on delivering elegant and intuitive
-              interfaces. I am always excited to collaborate on new projects!
+              interfaces. Feel free to contact me; I am always excited to collaborate on new projects!
             </p>
             <div className="flex gap-8 mt-8">
               <Link
