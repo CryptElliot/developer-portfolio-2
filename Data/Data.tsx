@@ -83,8 +83,8 @@ const skills = [
 
 const contacts: ContactsProps[] = [
   { id: 1, title: "Address", text: "AungThaPyay 2 Road, TharKayTa,Yangon" },
-  { id: 2, title: "Phone", text: "+959-883-271-929" },
-  { id: 3, title: "Email", text: "yelinko.2002@gmail.com" },
+  { id: 2, title: "Phone", text: "+1-203-945-6646" },
+  { id: 3, title: "Email", text: "whitticome@gmail.com" },
 ];
 
 export {navLinks, projects, countUpItems, services, skills, contacts };
