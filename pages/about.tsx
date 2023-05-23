@@ -23,13 +23,13 @@ export default function about() {
               - Introduction
             </div>
             <div className="font-semibold text-3xl mt-8 text-White uppercase">
-              UI/UX Designer & FrontEnd Developer, based on California
+              UI/UX Web Designer & FrontEnd Developer, based in Connecticut
             </div>
             <p className="text-WhiteGray text-sm mt-8 leading-7">
               {" "}
-              I am a passionate frontend developer with a creative eye for
+              I am a passionate frontend website developer with a creative eye for
               design and a strong focus on delivering elegant and intuitive
-              interfaces. Excited to collaborate on new projects!
+              interfaces. I am always excited to collaborate on new projects!
             </p>
             <div className="flex gap-8 mt-8">
               <Link
